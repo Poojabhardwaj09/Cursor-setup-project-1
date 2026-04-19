@@ -34,4 +34,7 @@
 * How to use an AI-based IDE (Cursor)
 * Importance of self-learning and problem-solving
 
+
+## Reflection
+This project helped me understand how to set up a development environment, work with GitHub, and troubleshoot issues independently. I learned the importance of exploring solutions and continuing progress even when facing technical difficulties.
 ---
